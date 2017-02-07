@@ -1,0 +1,10 @@
+package com.seniorproject.configuration;
+
+package com.seniorproject.config;
+
+public class Constants {
+	public static final String CUSTOMER = properties.getCustomerName();
+	public static final String THREAT1 = properties.getThreat1();
+	//public static final String THREAT1 = properties.getThreat2();
+	//public static final String THREAT1 = properties.getThreat3();
+}
